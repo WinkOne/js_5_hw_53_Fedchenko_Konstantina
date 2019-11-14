@@ -1,0 +1,18 @@
+.addInput{
+    margin-right: 5px;
+    width: 35%;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid black;
+}
+.addBtn{
+    margin-left: 5px;
+    width: 5%;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    background: #ffffff;
+}
+.fa-paper-plane{
+    font-size: 23px;
+}
